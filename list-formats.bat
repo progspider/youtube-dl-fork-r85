@@ -1,0 +1,1 @@
+youtube-dl.exe --list-formats https://www.youtube.com/watch?v=8s6duvbnC0A > result.txt
